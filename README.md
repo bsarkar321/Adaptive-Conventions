@@ -19,6 +19,8 @@ cd ..
 
 ## Reproducing Results
 
+If you do not want to train from scratch, copy the data folder from [this drive link](https://drive.google.com/drive/folders/1RcYyjHLhfICjdwxs8BJTm6fcsDIi64T4?usp=share_link) into the Adaptive-Conventions folder.
+
 Training the CoMeDi agents:
 
 ``` 
