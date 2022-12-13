@@ -1,0 +1,6 @@
+[submodule "PantheonRL"]
+	path = PantheonRL
+	url = https://github.com/Stanford-ILIAD/PantheonRL/
+[submodule "garage"]
+	path = garage
+	url = https://github.com/rlworkgroup/garage
